@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [1539-kth-missing-positive-number](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
+## Binary Search
+|  |
+| ------- |
+| [1539-kth-missing-positive-number](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
