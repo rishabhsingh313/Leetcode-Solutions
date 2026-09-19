@@ -40,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
+## Math
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
