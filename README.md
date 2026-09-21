@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0844-backspace-string-compare](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0383-ransom-note](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0383-ransom-note) |
+| [0844-backspace-string-compare](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [2351-first-letter-to-appear-twice](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -66,4 +69,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
