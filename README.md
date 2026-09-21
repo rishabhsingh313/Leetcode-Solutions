@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0682-baseball-game](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
 ## Two Pointers
@@ -56,8 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0682-baseball-game) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
