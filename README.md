@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0844-backspace-string-compare](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0917-reverse-only-letters) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -74,4 +76,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 <!---LeetCode Topics End-->
