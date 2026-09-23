@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0204-count-primes](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0682-baseball-game](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0728-self-dividing-numbers](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Geometry
@@ -80,4 +82,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
