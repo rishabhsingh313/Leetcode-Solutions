@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0728-self-dividing-numbers](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Geometry
 |  |
