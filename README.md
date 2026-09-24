@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0204-count-primes](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0682-baseball-game](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0704-binary-search) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0383-ransom-note](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [2351-first-letter-to-appear-twice](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## String
