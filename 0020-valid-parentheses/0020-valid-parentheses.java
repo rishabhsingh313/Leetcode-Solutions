@@ -34,6 +34,6 @@ class Solution {
             }
         }
 
-        return st.isEmpty();
+        return  st.isEmpty();
     }
 }
