@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0682-baseball-game](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
+| [0268-missing-number](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [2351-first-letter-to-appear-twice](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [2351-first-letter-to-appear-twice](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
 ## Math
@@ -83,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0728-self-dividing-numbers](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -134,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
