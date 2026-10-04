@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0728-self-dividing-numbers](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/rishabhsingh313/Leetcode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
